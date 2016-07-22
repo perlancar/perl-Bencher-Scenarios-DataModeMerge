@@ -1,5 +1,11 @@
 Revision history for Bencher-Scenarios-DataModeMerge
 
+0.002   2016-07-22 (PERLANCAR)
+
+        - [build] Exclude archive/ from build, this is only useful for producing
+          sample benchmark during building [RT#116386].
+
+
 0.001   2016-07-19 (PERLANCAR)
 
         - First release.
