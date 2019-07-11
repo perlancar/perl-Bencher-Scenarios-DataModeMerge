@@ -1,4 +1,4 @@
-0.003   2017-01-25 (PERLANCAR)
+0.003   2017-01-25  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,12 +7,12 @@
           type=x_benchmarks.
 
 
-0.002   2016-07-22 (PERLANCAR)
+0.002   2016-07-22  Released-By: PERLANCAR
 
         - [build] Exclude archive/ from build, this is only useful for producing
           sample benchmark during building [RT#116386].
 
 
-0.001   2016-07-19 (PERLANCAR)
+0.001   2016-07-19  Released-By: PERLANCAR
 
         - First release.
